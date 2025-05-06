@@ -1,1 +1,15 @@
-
+<! DOCTYPE html>
+<html>
+    <head>
+        <title>webpage</title>
+    </head>
+    <body>
+        <h1>python full stack </h1>
+        <b>kvr college</b>
+        <br>
+        <i>kvr college</i>
+        <br>
+        <u>kvr college</u>
+        <br>
+    </body>
+</html>
